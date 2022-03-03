@@ -24,3 +24,13 @@ p {
 a {
    color: aquamarine; 
 }
+
+
+footer {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: Verdana, sans-serif;
+    color: gray;
+    font-size: 21px;
+    text-align: right;
+}
